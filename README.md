@@ -60,7 +60,7 @@ plt.title('Visitor Distribution Across Age Groups')
 plt.show()
 ```
 ### Output:
-![image](https://github.com/Rakshithadevi/WDM_EXP4/assets/94165326/d81d0f38-eaca-4599-b9f5-9b21ca0c32fa)
+![image](https://github.com/Rakshithadevi/WDM_EXP4/assets/94165326/ad59f235-0222-469a-9742-1c9fcdbf4dd1)
 
 
 ### Result:
